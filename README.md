@@ -1,6 +1,7 @@
 Discord Theme: **Simple-Discord**  
 
-> ✨ **A sleek and customizable Discord theme** ✨  
+> ✨ **A sleek and customizable Discord theme** ✨
+(kinda speed ran this one so be aware of bugs!!)
 
 ## 🎨 About  
 
